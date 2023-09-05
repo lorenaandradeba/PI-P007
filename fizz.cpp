@@ -1,18 +1,15 @@
 #include <iostream>
-
 using namespace std;
 int main(void){
     for (int i=1;i<=100;i++){
-    if ((i % 3)==0){
-        cout<<"Fizz"<<endl;
-    }
-    else if ((i % 5)==0){
-        cout<<"Buzz"<<endl;    
+        if ((i % 3)==0){
+            cout<<"Fizz"<<endl;
+        }
+        else if ((i % 5)==0){
+            cout<<"Buzz"<<endl;    
         }
         else{
-        cout<<i<<endl;    
+            cout<<i<<endl;    
         }
-    
     }
-    
 }
