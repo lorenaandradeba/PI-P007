@@ -19,7 +19,9 @@ Exercício 6.1: matricula.cpp *O programa recebe a matrícula e 3 notas de um gr
 Exercício 6.2: alturaPrint.cpp *O programa recebe um número e imprime um padrão de caracteres alfanuméricos.*
 
 Exercício 7   a): printA.cpp *Imprime um padrão de acordo com a altura*
+
               b): printB.cpp *Imprime um padrão de acordo com a altura*
+
               c): printC.cpp *Imprime um padrão de acordo com a altura*
 
 Exercício 8: numerosPerfeitos.cpp *lê um número inteiro e determina se ele é um número perfeito*
